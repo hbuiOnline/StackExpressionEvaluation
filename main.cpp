@@ -2,7 +2,7 @@
 //ID#: 1858671
 //COSC 2430 Data Structure
 //Professor: Nouhad Rizk
-//Homework 5
+//Math expression evaluation using stack data structures
 
 #include <iostream>
 #include <string>
